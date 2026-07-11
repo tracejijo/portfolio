@@ -27,11 +27,7 @@ Jan 2015 — Nov 2018  Software Developer, baabte System Technologies
 Worked across full-stack development and server administration.
 
 CORE EXPERTISE
-Engineering leadership · Cloud-native architecture · AI and automation · DevOps · Cybersecurity · Full-stack development · AWS · Node.js · Angular · DynamoDB · Amazon RDS
-
-EDUCATION
-2020 — 2023  Bachelor of Computer Applications, Bharathiar University
-2014 — 2015  Training in PHP & Client Side Scripting, Baabtra IT Finishing School
+Engineering leadership · System design and architecture · Cloud-native architecture · AI and automation · DevOps · Cybersecurity · Full-stack development · AWS · Node.js · Angular · DynamoDB · Amazon RDS
 
 LANGUAGES
 English — Professional working proficiency
