@@ -1,26 +1,40 @@
-YOUR NAME
-Product Designer & Front-End Developer
-hello@yourname.com
+JIJO ALEXANDER
+Engineering Manager & Software Engineer
+Dubai, United Arab Emirates
+
+tracejijo@gmail.com
+linkedin.com/in/tracejijo
+github.com/tracejijo
+stackoverflow.com/users/6270897/jijo-alexander
 
 PROFILE
-Independent designer and developer focused on thoughtful products, clear systems, and measurable outcomes.
+Innovative and results-driven engineering leader with more than 11 years of experience building scalable, high-performance software. Experienced across AI, full-stack development, DevOps, cloud computing, cybersecurity, automation, and secure cloud-native architecture. Collaborative, hands-on, and focused on turning ambitious ideas into reliable products.
 
 EXPERIENCE
-2022 — Now  Lead Product Designer, Northstar Labs
-Leading product direction, design systems, and cross-functional delivery across a growing platform.
+Dec 2019 — Present  Engineering Manager, NorthLadder — Dubai, UAE
+Lead a team of developers and oversee project planning, design, development, and deployment while ensuring systems and team execution run smoothly.
 
-2019 — 2022  Senior Product Designer, Fieldwork
-Shipped research-led experiences for health, finance, and collaboration products.
+Feb 2019 — Mar 2022  Senior Software Engineer, Baxter International Inc. — Contract
+Designed enterprise applications with AngularJS and DynamoDB, collaborated across teams, and helped automate deployment and testing through DevOps practices.
 
-2017 — 2019  Independent Designer & Developer, Selected clients
-Partnered with early-stage teams to turn ambitious ideas into focused, launch-ready products.
+Nov 2018 — Dec 2019  Senior Software Engineer, HyperBlox India Pvt Ltd — Kozhikode, India
+Contributed to enterprise application development using Angular, Node.js, and Amazon RDS.
 
-SELECTED WORK
-Orbit Finance — Mobile banking reimagined; improved activation by 34%.
-Atlas Health — Care coordination platform; increased task completion by 2.1×.
-Meridian — Collaborative travel planning; enabled 41% faster bookings.
+Mar 2017 — Dec 2019  Software Engineer, Zeefasys — Kozhikode, India
+Built Angular applications backed by DynamoDB and Node.js services.
 
-CAPABILITIES
-Product strategy · UX and interface design · Design systems · Front-end development
+Jan 2015 — Nov 2018  Software Developer, baabte System Technologies
+Worked across full-stack development and server administration.
 
-This résumé contains sample content. Replace it with your real experience, projects, and contact details.
+CORE EXPERTISE
+Engineering leadership · Cloud-native architecture · AI and automation · DevOps · Cybersecurity · Full-stack development · AWS · Node.js · Angular · DynamoDB · Amazon RDS
+
+EDUCATION
+2020 — 2023  Bachelor of Computer Applications, Bharathiar University
+2014 — 2015  Training in PHP & Client Side Scripting, Baabtra IT Finishing School
+
+LANGUAGES
+English — Professional working proficiency
+Malayalam
+
+Source: LinkedIn profile, linkedin.com/in/tracejijo
